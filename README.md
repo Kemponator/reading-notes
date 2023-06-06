@@ -28,6 +28,10 @@ This markdown file has been made to demonstrate deployment with GitHub Pages and
 
 >A growth mindset is a belief that you can develop your skills and talents through hard work, the right strategies, and guidance from others. The term growth mindset was coined by American psychologist Professor Carol Dweck in her 2006 book Mindset: The New Psychology of Success.
 
+- Remember that everyone goes through the 'pit' stage.
+- Keep trying and working at it and you will succeed.
+- Work with your peers! Developers always work better as a team.
+
 ***
 
 ![](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
