@@ -32,4 +32,6 @@ This markdown file has been made to demonstrate deployment with GitHub Pages and
 
 ![](https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/8/197/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
-You can view my GitHub Repositories [here] (
+You can view my GitHub Repositories [here] (https://github.com/Kemponator?tab=repositories)
+
+
